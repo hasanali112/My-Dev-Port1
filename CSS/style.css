@@ -209,3 +209,7 @@ main {
     width: 100%;
     margin: 18px 30px;
 }
+
+.hiden{
+    display: none;
+}

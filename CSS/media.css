@@ -1,0 +1,67 @@
+@media screen and (max-width:576px) {
+    /* what can i do */
+    .skill-container{
+        flex-direction: column;
+    }
+
+    .skill img{
+        display: block;
+        margin: auto;
+    }
+
+    .skill-title{
+        text-align: center;
+    }
+
+    .description{
+        text-align: center;
+    }
+
+    /* resume section */
+    .resume{
+        margin-top: 86px;
+    }
+    .section-title{
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .resume-container{
+        gap:18px;
+    }
+
+    .resume-title{
+        font-size: 24px;
+        font-weight: 700;
+        text-align: left;
+        padding: 0 7px;
+    }
+
+    .resume-item{
+        margin-top: 14px;
+        padding: 0 7px;
+    }
+
+    .re-sec-title {
+        color: #474747;
+        font-weight: 600;
+        font-size: 19px;
+        margin-bottom: 5px;
+        text-align: left;
+    }
+
+    .re-sec-subtitle {
+        color: #757575;
+        font-weight: 600;
+        font-size: 15px;
+        margin-bottom: 20px;
+        text-align: left;
+    }
+
+    .re-sec-description {
+        color: #757575;
+        font-size: 13px;
+        text-align: left;
+    }
+
+}
